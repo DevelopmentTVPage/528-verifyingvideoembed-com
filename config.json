@@ -1,0 +1,15 @@
+{
+    "title": "sdfg",
+    "baseURL": "https:\/\/verifyingvideoembed.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759046",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "verifyingvideoembed.com"
+    }
+}
